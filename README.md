@@ -1,7 +1,6 @@
  👋 Olá! Eu sou a Flávia Kawane
 
 - 🌱 Estudando Desenvolvimeto de Sistemas
-- 📫 Contrate-me no email: kawane11silva@gmail.com
 - 😄 Pronouns: Ela/Dela
 
  <div style="display: inline_block"><br>
